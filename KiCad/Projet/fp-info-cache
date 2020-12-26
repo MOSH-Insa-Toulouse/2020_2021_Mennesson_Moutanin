@@ -1,4 +1,4 @@
-9632072880564
+4823416798729
 Empreintes_Capteur_Gaz
 Empreinte_Capteur_Gaz
 TO-5-10_Window, Window
@@ -13,31 +13,10 @@ Microchip-RN2483A-I_RM103-0-0-MFG
 0
 47
 47
-Socket_Arduino_Uno
-Arduino_1pin
-module 1 pin (ou trou mecanique de percage)
-DEV
-0
-1
-1
-Socket_Arduino_Uno
-Socket_Strip_Arduino_1x06
-Through hole socket strip
-socket strip
-0
-6
-6
-Socket_Arduino_Uno
-Socket_Strip_Arduino_1x08
-Through hole socket strip
-socket strip
+Empreintes_Capteur_Gaz
+Package_DIP-8_W7.62mm_LongPads
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
 0
 8
 8
-Socket_Arduino_Uno
-Socket_Strip_Arduino_1x10
-Through hole socket strip
-socket strip
-0
-10
-10
