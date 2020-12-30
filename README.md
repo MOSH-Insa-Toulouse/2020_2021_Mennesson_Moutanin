@@ -12,16 +12,16 @@
 - [x] Routing
 
 ### Diagram
-![image](https://github.com/MOSH-Insa-Toulouse/2020_2021_Mennesson_Moutanin/blob/main/KiCad/Projet/Illustrations/schematic.PNG)
+![image](https://github.com/MOSH-Insa-Toulouse/2020_2021_Mennesson_Moutanin/blob/main/KiCad/Illustrations/schematic.png)
 
 ### Placement and Routing
-![image](https://github.com/MOSH-Insa-Toulouse/2020_2021_Mennesson_Moutanin/blob/main/KiCad/Projet/Illustrations/placement.PNG)
-![image](https://github.com/MOSH-Insa-Toulouse/2020_2021_Mennesson_Moutanin/blob/main/KiCad/Projet/Illustrations/routingback.PNG)
-![image](https://github.com/MOSH-Insa-Toulouse/2020_2021_Mennesson_Moutanin/blob/main/KiCad/Projet/Illustrations/routingfront.PNG)
+![image](https://github.com/MOSH-Insa-Toulouse/2020_2021_Mennesson_Moutanin/blob/main/KiCad/Illustrations/placement.PNG)
+![image](https://github.com/MOSH-Insa-Toulouse/2020_2021_Mennesson_Moutanin/blob/main/KiCad/Illustrations/routingback.PNG)
+![image](https://github.com/MOSH-Insa-Toulouse/2020_2021_Mennesson_Moutanin/blob/main/KiCad/Illustrations/routingfront.PNG)
 
 ### 3D View
-![image](https://github.com/MOSH-Insa-Toulouse/2020_2021_Mennesson_Moutanin/blob/main/KiCad/Projet/Illustrations/viewfront.PNG)
-![image](https://github.com/MOSH-Insa-Toulouse/2020_2021_Mennesson_Moutanin/blob/main/KiCad/Projet/Illustrations/viewback.PNG)
+![image](https://github.com/MOSH-Insa-Toulouse/2020_2021_Mennesson_Moutanin/blob/main/KiCad/Illustrations/viewfront.PNG)
+![image](https://github.com/MOSH-Insa-Toulouse/2020_2021_Mennesson_Moutanin/blob/main/KiCad/Illustrations/viewback.PNG)
 
 
 ## Contribution
