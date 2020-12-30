@@ -589,7 +589,7 @@ F 3 "" H 8950 4100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 9650 4850 0    50   ~ 0
-A0
+A1
 Wire Wire Line
 	9100 4850 9650 4850
 Connection ~ 9100 4850
@@ -743,7 +743,7 @@ Wire Wire Line
 Wire Wire Line
 	1800 5250 1800 5450
 Text Label 1800 4950 0    50   ~ 0
-A1
+A0
 Wire Wire Line
 	2050 4950 1800 4950
 Connection ~ 2050 4950
