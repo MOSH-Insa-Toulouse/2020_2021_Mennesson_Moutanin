@@ -29,7 +29,7 @@ You'll find a datasheet related to the sensor we integrated under >A.I.M.E
 
 ## Analog Electronic Labs
 
-The goal of this part was to simulate our sensors and its associated electronic diagram thanks to LTSpice. In order to obtain the cutoff frequencies of the different steps and observe the noise attenuations at 50kHz and at the Nyquist frequency.
+The goal of this part was to simulate our sensor and its associated electronic diagram thanks to LTSpice. In order to obtain the cutoff frequencies of the different steps and observe the noise attenuations at 50kHz and at the Nyquist frequency.
 
 ### Electronic Diagram
 
@@ -50,7 +50,7 @@ The goal of this part was to simulate our sensors and its associated electronic 
 
 This part was focused on exploiting the data from the gas sensor. The idea was to interconnect several technologies; recover the data from the sensor using an arduino, process this data with the Arduino software, send it over the LoRa network, retrieve it on The Things Network, and finally display it on a dashboard thanks to a Node-Red flow.  
 
-You'll find all the related file under >MOSH>LoRa_Small_Project
+You'll find all the related files under >MOSH>LoRa_Small_Project
 
 ### Node-Red Flow Example (Temperature Data)
 
