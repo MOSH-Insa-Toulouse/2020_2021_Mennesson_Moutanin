@@ -25,7 +25,9 @@
 
 ## Manufacturing and integration of nano-technology sensors
 
-You'll find a datasheet related to the sensor we integrated under >A.I.M.E
+You'll find a datasheet related to the sensor we integrated under >A.I.M.E  
+
+It has been done by Zheng Zhou, Terence Liew, Brice Moutanin and Baptiste Mennesson
 
 ## Analog Electronic Labs
 
